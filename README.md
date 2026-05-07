@@ -122,7 +122,7 @@ const prajwal = {
 | Institute | BMS Institute of Technology and Management |
 | Graduation | Expected 2028 |
 | CGPA | 9.2 / 10 |
-| Certifications & Programs | NPTEL Certification in Machine Learning, Full Stack Web Development Bootcamp, Apna College Delta, Apna Batch |
+| Certifications & Programs | NPTEL Certification in Machine Learning, Full Stack Web Development Bootcamp, Apna College Delta, Alpha Batch |
 
 ---
 
